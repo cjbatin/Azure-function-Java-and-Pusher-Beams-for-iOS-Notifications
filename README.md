@@ -12,7 +12,7 @@ iOS - Clone or download the repo onto your machine.
 
 * A free Microsoft Azure account.
 * A free Pusher account.
-* NodeJS installed on your local machine. (If you are running this source code).
+* Visual Code Studio
 * Postman HTTP client installed on your local machine.
 * Homebrew installed on your machine.
 * Xcode 10+
